@@ -12,7 +12,10 @@ export default function Home() {
         <h1 className={styles.title}>Welcome to Silk Software!</h1>
 
         <div className={styles.grid}>
-          <a href="https://www.silksoftware.com/" className={styles.card}>
+          <a
+            href="https://www.silksoftware.com/about-us/"
+            className={styles.card}
+          >
             <h3>About Us &rarr;</h3>
             <p>Who are we? What do we do? What do you seek?</p>
           </a>
@@ -31,8 +34,8 @@ export default function Home() {
           </a>
 
           <a href="https://github.com/dat-monke" className={styles.card}>
-            <h3>Contact Us &rarr;</h3>
-            <p>Reach me on GITHUB</p>
+            <h3>Status &rarr;</h3>
+            <p>Check the status of your application here.</p>
           </a>
         </div>
       </main>
