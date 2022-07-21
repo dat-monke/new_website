@@ -34,7 +34,7 @@ export default function Home() {
           </a>
 
           <a
-            href="{THIS WILL HAVE TO BE UPDATED WITH THE APPLICATION.HTML FILE LATER}"
+            href="{THIS WILL HAVE TO BE UPDATED WITH THE APPLICATION.HTML FILE NEXT TIME}"
             className={styles.card}
           >
             <h3>Status &rarr;</h3>
