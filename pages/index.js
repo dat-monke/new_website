@@ -33,7 +33,10 @@ export default function Home() {
             <p>See all the eCommerce solutions that we have implemented.</p>
           </a>
 
-          <a href="https://github.com/dat-monke" className={styles.card}>
+          <a
+            href="{THIS WILL HAVE TO BE UPDATED WITH THE APPLICATION.HTML FILE LATER}"
+            className={styles.card}
+          >
             <h3>Status &rarr;</h3>
             <p>Check the status of your application here.</p>
           </a>
